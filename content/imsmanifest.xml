@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-moytswb4glyws"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-moytswb4glyws">
+    <organization identifier="eXe-moytswb4glyws" structure="hierarchical">
+      <title>El cocinero y la cocinera</title>
+      <item identifier="ITEM-page-moyr6gqj-gmac5s0q7" identifierref="RES-page-moyr6gqj-gmac5s0q7" isvisible="true">
+        <title>Inicio</title>
+      </item>
+      <item identifier="ITEM-page-moyr6gqj-w3pcjziix" identifierref="RES-page-moyr6gqj-w3pcjziix" isvisible="true">
+        <title>GUÍA DOCENTE SDA EL COCINERO Y LA COCINERA</title>
+        <item identifier="ITEM-page-moyr6gqj-l5etzvhrg" identifierref="RES-page-moyr6gqj-l5etzvhrg" isvisible="true">
+          <title>Justificación Didáctica</title>
+        </item>
+        <item identifier="ITEM-page-moyr6gqj-jguc2zge5" identifierref="RES-page-moyr6gqj-jguc2zge5" isvisible="true">
+          <title>Referencia Curricular</title>
+        </item>
+        <item identifier="ITEM-page-moyr6gqj-yjclmz0x7" identifierref="RES-page-moyr6gqj-yjclmz0x7" isvisible="true">
+          <title>Guía del uso para el aula</title>
+          <item identifier="ITEM-page-moyr6gqj-yml62zl3g" identifierref="RES-page-moyr6gqj-yml62zl3g" isvisible="true">
+            <title>Aspectos Metodológicos</title>
+          </item>
+          <item identifier="ITEM-page-moyr6gqj-8idplbgy6" identifierref="RES-page-moyr6gqj-8idplbgy6" isvisible="true">
+            <title>Documentos para el Alumnado</title>
+          </item>
+          <item identifier="ITEM-page-moyr6gqj-bc0o7cxzk" identifierref="RES-page-moyr6gqj-bc0o7cxzk" isvisible="true">
+            <title>Curación de Contenido</title>
+          </item>
+          <item identifier="ITEM-page-moyr6gqj-k7lbn9x6e" identifierref="RES-page-moyr6gqj-k7lbn9x6e" isvisible="true">
+            <title>Evaluación del Alumnado</title>
+          </item>
+        </item>
+      </item>
+      <item identifier="ITEM-page-moyr6gqj-fnrntata9" identifierref="RES-page-moyr6gqj-fnrntata9" isvisible="true">
+        <title>SESIONES</title>
+        <item identifier="ITEM-page-moyr6gqj-u114cuheb" identifierref="RES-page-moyr6gqj-u114cuheb" isvisible="true">
+          <title>El mensaje secreto del chef Remy</title>
+        </item>
+        <item identifier="ITEM-page-moyr6gqj-asstpopks" identifierref="RES-page-moyr6gqj-asstpopks" isvisible="true">
+          <title>¿ Somos cocineros?</title>
+        </item>
+        <item identifier="ITEM-page-moyr6gqj-s2ifyg3q9" identifierref="RES-page-moyr6gqj-s2ifyg3q9" isvisible="true">
+          <title>Misión: Exploradores de Oficios</title>
+        </item>
+        <item identifier="ITEM-page-moyr6gqj-3ljmksmnt" identifierref="RES-page-moyr6gqj-3ljmksmnt" isvisible="true">
+          <title>Exploración de la flora primaveral</title>
+        </item>
+        <item identifier="ITEM-page-moyr6gqj-06yijbw1h" identifierref="RES-page-moyr6gqj-06yijbw1h" isvisible="true">
+          <title>Pringues y Sabores: Talleres Artísticos</title>
+        </item>
+        <item identifier="ITEM-page-moyr6gqj-r339qzpba" identifierref="RES-page-moyr6gqj-r339qzpba" isvisible="true">
+          <title>Producto Final: ¿ Con las manos en la masa?</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-moyr6gqj-9c2mjmhue" identifierref="RES-page-moyr6gqj-9c2mjmhue" isvisible="true">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-moyr6gqj-gmac5s0q7" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-w3pcjziix" type="webcontent" adlcp:scormtype="sco" href="html/guia-docente-sda-el-cocinero-y-la-cocinera.html">
+      <file href="html/guia-docente-sda-el-cocinero-y-la-cocinera.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-l5etzvhrg" type="webcontent" adlcp:scormtype="sco" href="html/justificacion-didactica.html">
+      <file href="html/justificacion-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-jguc2zge5" type="webcontent" adlcp:scormtype="sco" href="html/referencia-curricular.html">
+      <file href="html/referencia-curricular.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-yjclmz0x7" type="webcontent" adlcp:scormtype="sco" href="html/guia-del-uso-para-el-aula.html">
+      <file href="html/guia-del-uso-para-el-aula.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-yml62zl3g" type="webcontent" adlcp:scormtype="sco" href="html/aspectos-metodologicos.html">
+      <file href="html/aspectos-metodologicos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-8idplbgy6" type="webcontent" adlcp:scormtype="sco" href="html/documentos-para-el-alumnado.html">
+      <file href="html/documentos-para-el-alumnado.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-bc0o7cxzk" type="webcontent" adlcp:scormtype="sco" href="html/curacion-de-contenido.html">
+      <file href="html/curacion-de-contenido.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-k7lbn9x6e" type="webcontent" adlcp:scormtype="sco" href="html/evaluacion-del-alumnado.html">
+      <file href="html/evaluacion-del-alumnado.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-fnrntata9" type="webcontent" adlcp:scormtype="sco" href="html/sesiones.html">
+      <file href="html/sesiones.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-u114cuheb" type="webcontent" adlcp:scormtype="sco" href="html/el-mensaje-secreto-del-chef-remy.html">
+      <file href="html/el-mensaje-secreto-del-chef-remy.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-asstpopks" type="webcontent" adlcp:scormtype="sco" href="html/-somos-cocineros.html">
+      <file href="html/-somos-cocineros.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-s2ifyg3q9" type="webcontent" adlcp:scormtype="sco" href="html/mision-exploradores-de-oficios.html">
+      <file href="html/mision-exploradores-de-oficios.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-3ljmksmnt" type="webcontent" adlcp:scormtype="sco" href="html/exploracion-de-la-flora-primaveral.html">
+      <file href="html/exploracion-de-la-flora-primaveral.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-06yijbw1h" type="webcontent" adlcp:scormtype="sco" href="html/pringues-y-sabores-talleres-artisticos.html">
+      <file href="html/pringues-y-sabores-talleres-artisticos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-r339qzpba" type="webcontent" adlcp:scormtype="sco" href="html/producto-final-con-las-manos-en-la-masa.html">
+      <file href="html/producto-final-con-las-manos-en-la-masa.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-moyr6gqj-9c2mjmhue" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/00136748-60e2-022d-4f79-d7ec02c22e75.jpeg"/>
+      <file href="content/resources/2a088bd1-c007-0220-7212-e2e612eaedd1.jpg"/>
+      <file href="content/resources/5953608d-4e82-0727-f735-7d81abb646ba.png"/>
+      <file href="content/resources/9f48d67e-2f29-722c-4993-4cc89e047d97.jpg"/>
+      <file href="content/resources/WhatsApp Image 2026-04-25 at 16.58.10.jpeg"/>
+      <file href="content/resources/WhatsApp Image 2026-05-09 at 22.05.59.jpeg"/>
+      <file href="content/resources/WhatsApp Image 2026-05-09 at 22.10.57.jpeg"/>
+      <file href="content/resources/ad29f002-e2e3-2f8b-7489-bf1e1dc8e156.webp"/>
+      <file href="content/resources/amasar.jpg"/>
+      <file href="content/resources/ba73c45c-fee2-729a-55fd-cd705fe54e23.jpg"/>
+      <file href="content/resources/cartel_sda.png"/>
+      <file href="content/resources/cecefbd7-580e-8d3c-359a-de078c413473.jpg"/>
+      <file href="content/resources/cocinero.jpg"/>
+      <file href="content/resources/cristic-cuentos-la-pequena-oruga-glotona.webp"/>
+      <file href="content/resources/cuchara.jpg"/>
+      <file href="content/resources/cuchillo.jpg"/>
+      <file href="content/resources/df21a811-d93b-3ac3-6902-24aa42432a76.jpg"/>
+      <file href="content/resources/e7da7674-59c6-d109-d231-5919ba445b06.jpg"/>
+      <file href="content/resources/ea997eec-8c93-0f19-3fea-4a2a234da9a2.jpg"/>
+      <file href="content/resources/f70e5bb6-f682-9650-7d2e-3d35383e11a0.jpeg"/>
+      <file href="content/resources/fa56e60c-43aa-fea4-c60f-d55f04ff8436.jpeg"/>
+      <file href="content/resources/harina.jpg"/>
+      <file href="content/resources/horno.jpg"/>
+      <file href="content/resources/panaderia.jpg"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/guess/adivinaHome.png"/>
+      <file href="idevices/guess/adivinaIcon.png"/>
+      <file href="idevices/guess/exequextaudio.svg"/>
+      <file href="idevices/guess/exequextcursor.gif"/>
+      <file href="idevices/guess/exequextfirstr.png"/>
+      <file href="idevices/guess/exequextfull.svg"/>
+      <file href="idevices/guess/exequexthits.svg"/>
+      <file href="idevices/guess/exequextlastr.png"/>
+      <file href="idevices/guess/exequextlive.png"/>
+      <file href="idevices/guess/exequextlost.png"/>
+      <file href="idevices/guess/exequextmin.svg"/>
+      <file href="idevices/guess/exequextmoveon.svg"/>
+      <file href="idevices/guess/exequextnextr.png"/>
+      <file href="idevices/guess/exequextnumber.svg"/>
+      <file href="idevices/guess/exequextone.svg"/>
+      <file href="idevices/guess/exequextpause.png"/>
+      <file href="idevices/guess/exequextplayvideo.png"/>
+      <file href="idevices/guess/exequextpreviousr.png"/>
+      <file href="idevices/guess/exequextreload.svg"/>
+      <file href="idevices/guess/exequextreply.svg"/>
+      <file href="idevices/guess/exequextrerrors.svg"/>
+      <file href="idevices/guess/exequextroscomin.svg"/>
+      <file href="idevices/guess/exequextscore.svg"/>
+      <file href="idevices/guess/exequextsq.svg"/>
+      <file href="idevices/guess/exequexttime.svg"/>
+      <file href="idevices/guess/exequexttwo.svg"/>
+      <file href="idevices/guess/exequextvideo.png"/>
+      <file href="idevices/guess/exequextwon.png"/>
+      <file href="idevices/guess/guess.css"/>
+      <file href="idevices/guess/guess.js"/>
+      <file href="idevices/hidden-image/exequextaudio.svg"/>
+      <file href="idevices/hidden-image/exequextcursor.gif"/>
+      <file href="idevices/hidden-image/exequextfull.svg"/>
+      <file href="idevices/hidden-image/exequexthits.svg"/>
+      <file href="idevices/hidden-image/exequextmin.svg"/>
+      <file href="idevices/hidden-image/exequextnumber.svg"/>
+      <file href="idevices/hidden-image/exequextreply.svg"/>
+      <file href="idevices/hidden-image/exequextrerrors.svg"/>
+      <file href="idevices/hidden-image/exequextscore.svg"/>
+      <file href="idevices/hidden-image/exequextsq.svg"/>
+      <file href="idevices/hidden-image/exequexttime.svg"/>
+      <file href="idevices/hidden-image/hidden-image-icon.png"/>
+      <file href="idevices/hidden-image/hidden-image.css"/>
+      <file href="idevices/hidden-image/hidden-image.js"/>
+      <file href="idevices/puzzle/exequextaudio.svg"/>
+      <file href="idevices/puzzle/exequextcursor.gif"/>
+      <file href="idevices/puzzle/exequextfull.svg"/>
+      <file href="idevices/puzzle/exequexthits.svg"/>
+      <file href="idevices/puzzle/exequextlive.png"/>
+      <file href="idevices/puzzle/exequextlost.png"/>
+      <file href="idevices/puzzle/exequextmin.svg"/>
+      <file href="idevices/puzzle/exequextnumber.svg"/>
+      <file href="idevices/puzzle/exequextplayaudio.svg"/>
+      <file href="idevices/puzzle/exequextreply.svg"/>
+      <file href="idevices/puzzle/exequextrerrors.svg"/>
+      <file href="idevices/puzzle/exequextscore.svg"/>
+      <file href="idevices/puzzle/exequextsq.svg"/>
+      <file href="idevices/puzzle/exequexttime.svg"/>
+      <file href="idevices/puzzle/exequextwon.png"/>
+      <file href="idevices/puzzle/mapaareas.svg"/>
+      <file href="idevices/puzzle/puzlenumbers.svg"/>
+      <file href="idevices/puzzle/puzzle-Image.png"/>
+      <file href="idevices/puzzle/puzzle.css"/>
+      <file href="idevices/puzzle/puzzle.js"/>
+      <file href="idevices/puzzle/puzzleHome.png"/>
+      <file href="idevices/puzzle/puzzleIcon.png"/>
+      <file href="idevices/puzzle/quextCursor.gif"/>
+      <file href="idevices/puzzle/quextauthor.png"/>
+      <file href="idevices/puzzle/vquextReload.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextaudio.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextcursor.gif"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextfirstr.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextfull.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequexthits.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextlastr.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextlive.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextlost.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextmin.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextmoveon.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextnextr.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextnumber.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextpause.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextplayvideo.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextpreviousr.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextreload.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextreply.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextrerrors.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextscore.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextsq.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequexttime.svg"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextvideo.png"/>
+      <file href="idevices/quick-questions-multiple-choice/exequextwon.png"/>
+      <file href="idevices/quick-questions-multiple-choice/quick-questions-multiple-choice.css"/>
+      <file href="idevices/quick-questions-multiple-choice/quick-questions-multiple-choice.js"/>
+      <file href="idevices/quick-questions-multiple-choice/seleccionaHome.png"/>
+      <file href="idevices/quick-questions-multiple-choice/seleccionaIcon.png"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="idevices/trueorfalse/exequextfull.svg"/>
+      <file href="idevices/trueorfalse/exequexthits.svg"/>
+      <file href="idevices/trueorfalse/exequextmin.svg"/>
+      <file href="idevices/trueorfalse/exequextnumber.svg"/>
+      <file href="idevices/trueorfalse/exequextreload.svg"/>
+      <file href="idevices/trueorfalse/exequextrerrors.svg"/>
+      <file href="idevices/trueorfalse/exequextscore.svg"/>
+      <file href="idevices/trueorfalse/exequextsq.svg"/>
+      <file href="idevices/trueorfalse/exequexttime.svg"/>
+      <file href="idevices/trueorfalse/tofhidesuggestion.png"/>
+      <file href="idevices/trueorfalse/tofnext.png"/>
+      <file href="idevices/trueorfalse/tofnextd.png"/>
+      <file href="idevices/trueorfalse/tofprevious.png"/>
+      <file href="idevices/trueorfalse/tofpreviousd.png"/>
+      <file href="idevices/trueorfalse/tofshowsuggestion.png"/>
+      <file href="idevices/trueorfalse/trueorfalse.css"/>
+      <file href="idevices/trueorfalse/trueorfalse.html"/>
+      <file href="idevices/trueorfalse/trueorfalse.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
